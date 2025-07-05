@@ -1,0 +1,4 @@
+name: CropPotLimitPlugin
+version: '1.0-SNAPSHOT'
+main: com.popogonry.cropPotLimitPlugin.CropPotLimitPlugin
+api-version: '1.21'
