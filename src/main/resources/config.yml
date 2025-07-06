@@ -1,0 +1,39 @@
+# ########################################################### #
+# Crop Pot Limit Plugin Developer: PopoGonry ( rhtjdsh35@gmail.com )
+# ########################################################### #
+
+# Crop Pot Limit Plugin Config File #
+
+# Crop Pot Limit
+
+
+Crop-Pot-Limit: 30
+
+Crop-Pot-Block-Ids:
+  - addcrop:addcrop_pot_oak_dry
+  - addcrop:addcrop_pot_oak_wet
+  - addcrop:addcrop_pot_spruce_dry
+  - addcrop:addcrop_pot_spruce_wet
+  - addcrop:addcrop_pot_birch_dry
+  - addcrop:addcrop_pot_birch_wet
+  - addcrop:addcrop_pot_jungle_dry
+  - addcrop:addcrop_pot_jungle_wet
+  - addcrop:addcrop_pot_acacia_dry
+  - addcrop:addcrop_pot_acacia_wet
+  - addcrop:addcrop_pot_dark_oak_dry
+  - addcrop:addcrop_pot_dark_oak_wet
+  - addcrop:addcrop_pot_mangrove_dry
+  - addcrop:addcrop_pot_mangrove_wet
+  - addcrop:addcrop_pot_cherry_dry
+  - addcrop:addcrop_pot_cherry_wet
+  - addcrop:addcrop_pot_bamboo_dry
+  - addcrop:addcrop_pot_bamboo_wet
+  - addcrop:addcrop_pot_crimson_dry
+  - addcrop:addcrop_pot_crimson_wet
+  - addcrop:addcrop_pot_warped_dry
+  - addcrop:addcrop_pot_warped_wet
+  - addcrop:addcrop_pot_pale_oak_dry
+  - addcrop:addcrop_pot_pale_oak_wet
+
+
+
